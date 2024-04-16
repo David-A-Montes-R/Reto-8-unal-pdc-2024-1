@@ -1,6 +1,6 @@
 # Reto 8 PDC Unal 2024-1
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/HkMddSNw/error-418.png" alt="" width="300" height="auto"/></br>
+<figure> <img src="https://i.postimg.cc/ZYLWq9xH/error-418.png" alt="" width="300" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
